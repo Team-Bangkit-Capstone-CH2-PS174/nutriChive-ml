@@ -48,3 +48,9 @@ Accuracy History Graph :
 Loss History Graph : 
 
 ![Loss Accuracy](history_loss.png)
+
+## Example of Prediction Results After Being Deployed to the Application
+
+![Predict Result 1](predict.jpg)
+![Predict Result 2](predict1.jpg)
+![Predict Result 3](predict2.jpg)
