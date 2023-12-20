@@ -23,3 +23,5 @@ Kritik Seth, "Fruits and Vegetables Image Recognition Dataset," Kaggle 2020 [htt
 ## Model
 ### Architecture
 The model we used was created from scratch. We used Convolutional Neural Network in creating it. After the convolution process we do downsampling by using max pooling operation. The activation function we use is ReLU. The model we created consists of 5 levels of convolution process with the number of filters/kernels applying multiples of 2 at each level. In addition, at the end of the model there is a Global Max Pooling operation and also a dense layer with 36 units according to the number of classes in the dataset we use.
+![Model Summary 1](model_summary1.png)
+![Model Summary 2](model_summary2.png)
